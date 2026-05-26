@@ -1,0 +1,2364 @@
+{
+  "config": {},
+  "extra": {
+    "ds": {
+      "offset": [
+        -5046.802083915253,
+        671.5584694225024
+      ],
+      "scale": 0.8390545288824723
+    },
+    "linkExtensions": [
+      {
+        "id": 51,
+        "parentId": 19
+      },
+      {
+        "id": 58,
+        "parentId": 21
+      },
+      {
+        "id": 60,
+        "parentId": 40
+      },
+      {
+        "id": 66,
+        "parentId": 25
+      },
+      {
+        "id": 73,
+        "parentId": 27
+      },
+      {
+        "id": 89,
+        "parentId": 35
+      },
+      {
+        "id": 90,
+        "parentId": 37
+      },
+      {
+        "id": 92,
+        "parentId": 49
+      },
+      {
+        "id": 93,
+        "parentId": 51
+      }
+    ],
+    "reroutes": [
+      {
+        "id": 1,
+        "linkIds": [
+          58
+        ],
+        "parentId": 55,
+        "pos": [
+          5740.665455402328,
+          -1306.2489508494798
+        ]
+      },
+      {
+        "id": 2,
+        "linkIds": [
+          58
+        ],
+        "parentId": 1,
+        "pos": [
+          5756.01880062241,
+          -1649.8781614345196
+        ]
+      },
+      {
+        "id": 3,
+        "linkIds": [
+          58
+        ],
+        "parentId": 2,
+        "pos": [
+          5945.408151017097,
+          -1660.3177823238138
+        ]
+      },
+      {
+        "id": 4,
+        "linkIds": [
+          51
+        ],
+        "parentId": 8,
+        "pos": [
+          6556.829777180653,
+          -1432.7468168383675
+        ]
+      },
+      {
+        "id": 5,
+        "linkIds": [
+          51
+        ],
+        "parentId": 39,
+        "pos": [
+          6531.995147660575,
+          -868.7130153184349
+        ]
+      },
+      {
+        "id": 8,
+        "linkIds": [
+          51
+        ],
+        "pos": [
+          6557.935943074231,
+          -1543.2849974200758
+        ]
+      },
+      {
+        "id": 13,
+        "linkIds": [
+          60
+        ],
+        "pos": [
+          5718.104196465032,
+          -664.1418693614181
+        ]
+      },
+      {
+        "id": 14,
+        "linkIds": [
+          60
+        ],
+        "parentId": 13,
+        "pos": [
+          5714.9077068909755,
+          -223.3678411624891
+        ]
+      },
+      {
+        "id": 15,
+        "linkIds": [
+          60
+        ],
+        "parentId": 14,
+        "pos": [
+          6152.1937105685565,
+          -225.59785420633915
+        ]
+      },
+      {
+        "floating": {
+          "slotType": "output"
+        },
+        "id": 18,
+        "linkIds": [
+          60
+        ],
+        "parentId": 15,
+        "pos": [
+          6150.227189685411,
+          -498.2442458613617
+        ]
+      },
+      {
+        "id": 19,
+        "linkIds": [
+          51
+        ],
+        "parentId": 5,
+        "pos": [
+          6166.9803337529775,
+          -854.3854414645729
+        ]
+      },
+      {
+        "id": 21,
+        "linkIds": [
+          58
+        ],
+        "parentId": 3,
+        "pos": [
+          6099.849163961974,
+          -1653.328549898637
+        ]
+      },
+      {
+        "id": 22,
+        "linkIds": [
+          66
+        ],
+        "pos": [
+          6134.7599761224965,
+          -114.1302582187728
+        ]
+      },
+      {
+        "id": 23,
+        "linkIds": [
+          66
+        ],
+        "parentId": 22,
+        "pos": [
+          6124.16939702451,
+          -381.21114248009843
+        ]
+      },
+      {
+        "id": 25,
+        "linkIds": [
+          66
+        ],
+        "parentId": 23,
+        "pos": [
+          6126.814986379584,
+          -563.4515476698847
+        ]
+      },
+      {
+        "id": 26,
+        "linkIds": [
+          73
+        ],
+        "parentId": 44,
+        "pos": [
+          5712.546470858748,
+          171.09297001509836
+        ]
+      },
+      {
+        "id": 27,
+        "linkIds": [
+          73
+        ],
+        "parentId": 26,
+        "pos": [
+          5705.568920231208,
+          506.8523811712434
+        ]
+      },
+      {
+        "id": 35,
+        "linkIds": [
+          89
+        ],
+        "pos": [
+          6549.451889286747,
+          -500.6451680994618
+        ]
+      },
+      {
+        "id": 36,
+        "linkIds": [
+          90
+        ],
+        "parentId": 38,
+        "pos": [
+          6584.793365468513,
+          -386.3989471498884
+        ]
+      },
+      {
+        "id": 37,
+        "linkIds": [
+          90
+        ],
+        "parentId": 36,
+        "pos": [
+          6580.551265401495,
+          -38.84869909689186
+        ]
+      },
+      {
+        "id": 38,
+        "linkIds": [
+          90
+        ],
+        "pos": [
+          6580.009521801672,
+          -541.0948971910811
+        ]
+      },
+      {
+        "id": 39,
+        "linkIds": [
+          51
+        ],
+        "parentId": 4,
+        "pos": [
+          6562.562068255236,
+          -1252.2277786512568
+        ]
+      },
+      {
+        "id": 40,
+        "linkIds": [
+          60
+        ],
+        "parentId": 18,
+        "pos": [
+          6158.33735800667,
+          -597.1519342854746
+        ]
+      },
+      {
+        "id": 44,
+        "linkIds": [
+          73
+        ],
+        "pos": [
+          5716.19030252113,
+          20.99030786908348
+        ]
+      },
+      {
+        "id": 47,
+        "linkIds": [
+          92
+        ],
+        "parentId": 53,
+        "pos": [
+          6130.716211170706,
+          847.3897169581151
+        ]
+      },
+      {
+        "id": 48,
+        "linkIds": [
+          92
+        ],
+        "parentId": 47,
+        "pos": [
+          6148.6982866782755,
+          1345.0427034127908
+        ]
+      },
+      {
+        "id": 49,
+        "linkIds": [
+          92
+        ],
+        "parentId": 48,
+        "pos": [
+          6545.704119047447,
+          1354.58643447802
+        ]
+      },
+      {
+        "id": 50,
+        "linkIds": [
+          93
+        ],
+        "parentId": 54,
+        "pos": [
+          6163.88108449974,
+          714.3809460311355
+        ]
+      },
+      {
+        "id": 51,
+        "linkIds": [
+          93
+        ],
+        "parentId": 50,
+        "pos": [
+          6517.576030585533,
+          714.1672638139951
+        ]
+      },
+      {
+        "id": 52,
+        "linkIds": [
+          93
+        ],
+        "pos": [
+          6016.746388037969,
+          734.6293773336994
+        ]
+      },
+      {
+        "id": 53,
+        "linkIds": [
+          92
+        ],
+        "pos": [
+          6014.088785114056,
+          836.0701676844477
+        ]
+      },
+      {
+        "id": 54,
+        "linkIds": [
+          93
+        ],
+        "parentId": 52,
+        "pos": [
+          6125.719484077325,
+          732.7305447162978
+        ]
+      },
+      {
+        "id": 55,
+        "linkIds": [
+          58
+        ],
+        "pos": [
+          5732.38739414713,
+          -1078.1381138695315
+        ]
+      }
+    ]
+  },
+  "floatingLinks": [
+    {
+      "id": 2,
+      "origin_id": 2,
+      "origin_slot": 0,
+      "parentId": 18,
+      "target_id": -1,
+      "target_slot": -1,
+      "type": "IMAGE"
+    }
+  ],
+  "groups": [
+    {
+      "bounding": [
+        5298.073253146615,
+        -900.989675383493,
+        1266.0012999659157,
+        725.6629990619318
+      ],
+      "color": "#88A",
+      "flags": {},
+      "font_size": 22,
+      "id": 1,
+      "title": "Manual control 21：9"
+    },
+    {
+      "bounding": [
+        7015.48960443844,
+        -1716.8581726113803,
+        580.9803503539861,
+        669.1649378413475
+      ],
+      "color": "#8AA",
+      "flags": {},
+      "font_size": 22,
+      "id": 2,
+      "title": "Webpage Panorama Viewer"
+    },
+    {
+      "bounding": [
+        5309.2867291325265,
+        -1718.1725908235192,
+        1676.6260853164495,
+        673.8961124841354
+      ],
+      "color": "#88A",
+      "flags": {},
+      "font_size": 22,
+      "id": 4,
+      "title": "Generate prompt 21：9  -(Gemini)"
+    },
+    {
+      "bounding": [
+        5305.207396089313,
+        -151.23501719560005,
+        1262.1956372404884,
+        669.954981770431
+      ],
+      "color": "#88A",
+      "flags": {},
+      "font_size": 22,
+      "id": 5,
+      "title": "Perspective reference image"
+    },
+    {
+      "bounding": [
+        5306.37981519739,
+        661.3528448841523,
+        1264.2428886834468,
+        715.8633029730464
+      ],
+      "color": "#88A",
+      "flags": {},
+      "font_size": 22,
+      "id": 8,
+      "title": "Manual control 1：1"
+    },
+    {
+      "bounding": [
+        5308.827938441664,
+        1401.9415863595668,
+        1262.3316213174867,
+        683.324419277101
+      ],
+      "color": "#3f789e",
+      "flags": {},
+      "font_size": 22,
+      "id": 9,
+      "title": "Sample Results"
+    },
+    {
+      "bounding": [
+        6601.986230002476,
+        -898.0778059684601,
+        1000.9144801877437,
+        720.4124709574966
+      ],
+      "color": "#b06634",
+      "flags": {},
+      "font_size": 22,
+      "id": 11,
+      "title": "Generate image 21：9  -(Nano Banana)"
+    },
+    {
+      "bounding": [
+        6600.225846547813,
+        -151.52909585019597,
+        998.4510392462262,
+        673.0213954248529
+      ],
+      "color": "#A88",
+      "flags": {},
+      "font_size": 22,
+      "id": 13,
+      "title": "Generate image 21：9  -(GPT- Image2)"
+    },
+    {
+      "bounding": [
+        6602.592512805743,
+        1401.3101228966457,
+        989.0060065650378,
+        679.2493285348146
+      ],
+      "color": "#A88",
+      "flags": {},
+      "font_size": 22,
+      "id": 14,
+      "title": "Generate image 1：1 -(GPT- Image2)"
+    },
+    {
+      "bounding": [
+        6600.612111217351,
+        663.3319210946186,
+        992.0111025188726,
+        714.9882921580904
+      ],
+      "color": "#b06634",
+      "flags": {},
+      "font_size": 22,
+      "id": 15,
+      "title": "Generate image 1：1  -(Nano Banana)"
+    }
+  ],
+  "id": "9dca4621-d8e1-4563-a7b4-90a7baf3130a",
+  "last_link_id": 99,
+  "last_node_id": 111,
+  "links": [
+    [
+      4,
+      1,
+      0,
+      6,
+      0,
+      "IMAGE"
+    ],
+    [
+      21,
+      45,
+      0,
+      1,
+      2,
+      "STRING"
+    ],
+    [
+      38,
+      11,
+      0,
+      55,
+      0,
+      "STRING"
+    ],
+    [
+      51,
+      11,
+      0,
+      45,
+      0,
+      "STRING"
+    ],
+    [
+      58,
+      2,
+      0,
+      11,
+      0,
+      "IMAGE"
+    ],
+    [
+      60,
+      2,
+      0,
+      75,
+      0,
+      "IMAGE"
+    ],
+    [
+      62,
+      75,
+      0,
+      1,
+      0,
+      "IMAGE"
+    ],
+    [
+      66,
+      76,
+      0,
+      75,
+      1,
+      "IMAGE"
+    ],
+    [
+      67,
+      80,
+      0,
+      81,
+      0,
+      "IMAGE"
+    ],
+    [
+      69,
+      83,
+      0,
+      84,
+      0,
+      "IMAGE"
+    ],
+    [
+      73,
+      77,
+      0,
+      84,
+      1,
+      "IMAGE"
+    ],
+    [
+      76,
+      93,
+      0,
+      95,
+      0,
+      "IMAGE"
+    ],
+    [
+      87,
+      106,
+      0,
+      105,
+      0,
+      "IMAGE"
+    ],
+    [
+      89,
+      75,
+      0,
+      106,
+      0,
+      "IMAGE"
+    ],
+    [
+      90,
+      45,
+      0,
+      106,
+      2,
+      "STRING"
+    ],
+    [
+      92,
+      84,
+      0,
+      93,
+      0,
+      "IMAGE"
+    ],
+    [
+      93,
+      84,
+      0,
+      80,
+      0,
+      "IMAGE"
+    ],
+    [
+      96,
+      109,
+      0,
+      80,
+      2,
+      "STRING"
+    ],
+    [
+      97,
+      109,
+      0,
+      93,
+      2,
+      "STRING"
+    ],
+    [
+      98,
+      110,
+      0,
+      45,
+      1,
+      "STRING"
+    ],
+    [
+      99,
+      111,
+      0,
+      11,
+      4,
+      "STRING"
+    ]
+  ],
+  "nodes": [
+    {
+      "bgcolor": "#653",
+      "color": "#432",
+      "flags": {
+        "collapsed": false
+      },
+      "id": 1,
+      "inputs": [
+        {
+          "link": 62,
+          "localized_name": "images",
+          "name": "images",
+          "shape": 7,
+          "type": "IMAGE"
+        },
+        {
+          "link": null,
+          "localized_name": "files",
+          "name": "files",
+          "shape": 7,
+          "type": "GEMINI_INPUT_FILES"
+        },
+        {
+          "link": 21,
+          "localized_name": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "model",
+          "name": "model",
+          "type": "COMBO",
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "seed",
+          "name": "seed",
+          "type": "INT",
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "aspect_ratio",
+          "name": "aspect_ratio",
+          "type": "COMBO",
+          "widget": {
+            "name": "aspect_ratio"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "resolution",
+          "name": "resolution",
+          "type": "COMBO",
+          "widget": {
+            "name": "resolution"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "response_modalities",
+          "name": "response_modalities",
+          "type": "COMBO",
+          "widget": {
+            "name": "response_modalities"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "system_prompt",
+          "name": "system_prompt",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "system_prompt"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 24,
+      "outputs": [
+        {
+          "links": [
+            4
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        },
+        {
+          "links": null,
+          "localized_name": "STRING",
+          "name": "STRING",
+          "type": "STRING"
+        }
+      ],
+      "pos": [
+        6655.66701828077,
+        -816.1178330919404
+      ],
+      "properties": {
+        "Node name for S&R": "GeminiImage2Node"
+      },
+      "showAdvanced": false,
+      "size": [
+        353.046875,
+        546.203125
+      ],
+      "type": "GeminiImage2Node",
+      "widgets_values": [
+        "",
+        "gemini-3-pro-image-preview",
+        356729005177027,
+        "randomize",
+        "21:9",
+        "4K",
+        "IMAGE+TEXT",
+        "You are an expert image-generation engine. You must ALWAYS produce an image.\nInterpret all user input—regardless of format, intent, or abstraction—as literal visual directives for image composition.\nIf a prompt is conversational or lacks specific visual details, you must creatively invent a concrete visual scenario that depicts the concept.\nPrioritize generating the visual representation above any text, formatting, or conversational requests."
+      ]
+    },
+    {
+      "flags": {},
+      "id": 2,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "image",
+          "name": "image",
+          "type": "COMBO",
+          "widget": {
+            "name": "image"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "choose file to upload",
+          "name": "upload",
+          "type": "IMAGEUPLOAD",
+          "widget": {
+            "name": "upload"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 0,
+      "outputs": [
+        {
+          "links": [
+            58,
+            60
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        },
+        {
+          "links": null,
+          "localized_name": "MASK",
+          "name": "MASK",
+          "type": "MASK"
+        }
+      ],
+      "pos": [
+        5320.15981331565,
+        -820.4739670965979
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "size": [
+        375.46875,
+        574.21875
+      ],
+      "type": "LoadImage",
+      "widgets_values": [
+        "75235d22f427316ec22af888343e8e47e56419d1891631235b0c0d50ac7f449e.jpg",
+        "image"
+      ]
+    },
+    {
+      "bgcolor": "#533",
+      "color": "#322",
+      "flags": {},
+      "id": 3,
+      "inputs": [],
+      "mode": 0,
+      "order": 1,
+      "outputs": [],
+      "pos": [
+        5336.2956666716,
+        -1634.8598430962154
+      ],
+      "properties": {},
+      "size": [
+        371.640625,
+        563.046875
+      ],
+      "type": "Note",
+      "widgets_values": [
+        "The generated prompts are for reference only; I do not recommend using overly long style descriptions."
+      ]
+    },
+    {
+      "bgcolor": "#3f5159",
+      "color": "#2a363b",
+      "flags": {},
+      "id": 6,
+      "inputs": [
+        {
+          "link": 4,
+          "localized_name": "images",
+          "name": "images",
+          "type": "IMAGE"
+        },
+        {
+          "link": null,
+          "localized_name": "filename_prefix",
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 26,
+      "outputs": [],
+      "pos": [
+        7133.9481862348,
+        -820.079920155417
+      ],
+      "properties": {},
+      "size": [
+        375.546875,
+        574.0625
+      ],
+      "type": "SaveImage",
+      "widgets_values": [
+        "ComfyUI_Panorama"
+      ]
+    },
+    {
+      "bgcolor": "#653",
+      "color": "#432",
+      "flags": {},
+      "id": 11,
+      "inputs": [
+        {
+          "link": 58,
+          "localized_name": "images",
+          "name": "images",
+          "shape": 7,
+          "type": "IMAGE"
+        },
+        {
+          "link": null,
+          "localized_name": "audio",
+          "name": "audio",
+          "shape": 7,
+          "type": "AUDIO"
+        },
+        {
+          "link": null,
+          "localized_name": "video",
+          "name": "video",
+          "shape": 7,
+          "type": "VIDEO"
+        },
+        {
+          "link": null,
+          "localized_name": "files",
+          "name": "files",
+          "shape": 7,
+          "type": "GEMINI_INPUT_FILES"
+        },
+        {
+          "link": 99,
+          "localized_name": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "model",
+          "name": "model",
+          "type": "COMBO",
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "seed",
+          "name": "seed",
+          "type": "INT",
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "system_prompt",
+          "name": "system_prompt",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "system_prompt"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 17,
+      "outputs": [
+        {
+          "links": [
+            38,
+            51
+          ],
+          "localized_name": "STRING",
+          "name": "STRING",
+          "type": "STRING"
+        }
+      ],
+      "pos": [
+        6180.264767395169,
+        -1643.1668204081175
+      ],
+      "properties": {
+        "Node name for S&R": "GeminiNode"
+      },
+      "size": [
+        355.078125,
+        545.078125
+      ],
+      "type": "GeminiNode",
+      "widgets_values": [
+        "",
+        "gemini-3-1-pro",
+        979056510712477,
+        "randomize",
+        ""
+      ]
+    },
+    {
+      "bgcolor": "#353",
+      "color": "#232",
+      "flags": {},
+      "id": 45,
+      "inputs": [
+        {
+          "link": 51,
+          "localized_name": "on_false",
+          "name": "on_false",
+          "type": "STRING"
+        },
+        {
+          "link": 98,
+          "localized_name": "on_true",
+          "name": "on_true",
+          "type": "STRING"
+        },
+        {
+          "link": null,
+          "localized_name": "switch",
+          "name": "switch",
+          "type": "BOOLEAN",
+          "widget": {
+            "name": "switch"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 21,
+      "outputs": [
+        {
+          "links": [
+            21,
+            90
+          ],
+          "localized_name": "output",
+          "name": "output",
+          "type": "STRING"
+        }
+      ],
+      "pos": [
+        6192.659059508293,
+        -810.3793694663591
+      ],
+      "properties": {
+        "Node name for S&R": "ComfySwitchNode"
+      },
+      "size": [
+        333.28125,
+        128.046875
+      ],
+      "type": "ComfySwitchNode",
+      "widgets_values": [
+        true
+      ]
+    },
+    {
+      "bgcolor": "#533",
+      "color": "#322",
+      "flags": {},
+      "id": 53,
+      "inputs": [],
+      "mode": 0,
+      "order": 2,
+      "outputs": [],
+      "pos": [
+        6201.080858445441,
+        -468.2326002683957
+      ],
+      "properties": {},
+      "size": [
+        317.265625,
+        223.125
+      ],
+      "type": "Note",
+      "widgets_values": [
+        "on_true: Enter a prompt manually \non_false: Generate a prompt"
+      ]
+    },
+    {
+      "bgcolor": "#355",
+      "color": "#233",
+      "flags": {},
+      "id": 54,
+      "inputs": [],
+      "mode": 0,
+      "order": 3,
+      "outputs": [],
+      "pos": [
+        7106.772446244202,
+        -1640.4317847589787
+      ],
+      "properties": {},
+      "size": [
+        408.90625,
+        560
+      ],
+      "title": "Save text format as HTML",
+      "type": "Note",
+      "widgets_values": [
+        "<!DOCTYPE html>\n<html lang=\"zh-CN\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>网页全景图查看器</title>\n    <script src=\"https://cdn.tailwindcss.com\"></script>\n    \n    <script type=\"importmap\">\n        {\n            \"imports\": {\n                \"three\": \"https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.module.js\",\n                \"three/addons/\": \"https://cdn.jsdelivr.net/npm/three@0.128.0/examples/jsm/\"\n            }\n        }\n    </script>\n\n    <style>\n        body { margin: 0; overflow: hidden; background-color: #050505; font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif; user-select: none; }\n        #canvas-container { width: 100vw; height: 100vh; position: absolute; top: 0; left: 0; z-index: 1; cursor: grab; }\n        #canvas-container:active { cursor: grabbing; }\n        #file-input { display: none; }\n        .ui-layer { position: absolute; z-index: 10; }\n\n        /* ================= 极简巨屏上传区 ================= */\n        .brutalist-bg {\n            background-color: #080809;\n            background-image: linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);\n            background-size: 40px 40px;\n        }\n        .huge-dropzone {\n            width: calc(100vw - 80px);\n            height: calc(100vh - 80px);\n            border: 1px dashed #333;\n            background: rgba(15,15,18,0.4);\n            transition: all 0.3s ease;\n        }\n        .huge-dropzone:hover, .drag-active {\n            border-color: #555;\n            background-color: rgba(255,255,255,0.02);\n        }\n\n        /* ================= 工作台 UI 面板 ================= */\n        .panel-blur {\n            background: rgba(20, 20, 24, 0.95);\n            backdrop-filter: blur(16px);\n            -webkit-backdrop-filter: blur(16px);\n            border: 1px solid rgba(255, 255, 255, 0.08);\n            box-shadow: 0 20px 40px rgba(0,0,0,0.6);\n        }\n        \n        .btn-tech { transition: all 0.2s ease; cursor: pointer; }\n        .btn-tech:active { transform: scale(0.96); }\n\n        /* 快捷键键帽样式 */\n        .key-hint {\n            display: inline-flex; align-items: center; justify-content: center;\n            background: rgba(255, 255, 255, 0.15); color: rgba(255, 255, 255, 0.9);\n            font-family: ui-monospace, SFMono-Regular, monospace; font-size: 10px; font-weight: bold;\n            padding: 1px 5px; border-radius: 4px; border-bottom: 1px solid rgba(255, 255, 255, 0.3);\n            margin-left: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.3);\n        }\n\n        /* UI 隐藏过度动画 */\n        #workspace-ui { transition: opacity 0.3s ease; }\n        .hidden-ui { opacity: 0 !important; pointer-events: none !important; }\n\n        .flash-text { animation: flash 1s ease-out; }\n        @keyframes flash { \n            0% { text-shadow: 0 0 12px rgba(16, 185, 129, 0.9); filter: brightness(1.5); } \n            100% { text-shadow: none; filter: brightness(1); } \n        }\n    </style>\n</head>\n<body class=\"text-gray-300\">\n\n    <div id=\"canvas-container\"></div>\n\n    <div id=\"upload-overlay\" class=\"ui-layer inset-0 flex items-center justify-center brutalist-bg transition-opacity duration-500\">\n        <div id=\"drop-zone\" class=\"huge-dropzone rounded-2xl flex flex-col items-center justify-center cursor-pointer relative overflow-hidden group\">\n            <div class=\"z-10 text-center transition-transform duration-500 group-hover:scale-[1.02]\">\n                <svg class=\"w-16 h-16 mx-auto mb-6 text-gray-700 group-hover:text-gray-400 transition-colors duration-300\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\">\n                    <path stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"1.5\" d=\"M12 4v16m0-16l-5 5m5-5l5 5M4 20h16\"></path>\n                </svg>\n                <!-- 中英文对照排版 -->\n                <h1 class=\"text-3xl font-medium text-gray-300 tracking-[0.2em] mb-2\">网页全景图查看器</h1>\n                <h2 class=\"text-sm font-medium text-gray-500 tracking-[0.15em] uppercase mb-8\">Web Panorama Viewer</h2>\n                \n                <p class=\"text-[11px] text-gray-400 font-mono tracking-widest uppercase mb-2\">点击此处选择文件，或将图片拖拽至此</p>\n                <p class=\"text-[10px] text-gray-600 font-mono tracking-widest uppercase\">Click here to select a file, or drag & drop an image</p>\n            </div>\n            \n            <div class=\"absolute bottom-6 right-8 text-[11px] text-gray-500 font-mono tracking-widest uppercase pointer-events-none\">\n                By nwalmolos\n            </div>\n        </div>\n    </div>\n\n    <div id=\"loading-overlay\" class=\"ui-layer inset-0 flex flex-col items-center justify-center bg-black/95 hidden z-50\">\n        <svg class=\"animate-spin h-10 w-10 text-gray-500 mb-4\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\">\n            <circle class=\"opacity-25\" cx=\"12\" cy=\"12\" r=\"10\" stroke=\"currentColor\" stroke-width=\"3\"></circle>\n            <path class=\"opacity-75\" fill=\"currentColor\" d=\"M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z\"></path>\n        </svg>\n        <p id=\"loading-text\" class=\"text-sm font-mono tracking-widest text-gray-400\">PROCESSING...</p>\n    </div>\n\n    <div id=\"workspace-ui\" class=\"hidden\">\n        \n        <div class=\"ui-layer top-8 left-8 panel-blur rounded-xl p-4 w-[340px]\">\n            <h2 class=\"text-xs font-bold text-gray-300 mb-1 tracking-widest flex items-center border-b border-gray-700/60 pb-2\">\n                <svg class=\"w-3.5 h-3.5 mr-2 text-gray-400\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" d=\"M12 4v16m-8-8h16\"></path></svg>\n                方位坐标标定 / Calibration\n            </h2>\n            <p class=\"text-[9px] text-gray-500 mb-3 mt-2 leading-relaxed\">拖动屏幕对准目标方位，点击记录坐标系。</p>\n            \n            <div class=\"flex flex-col gap-1.5\">\n                <!-- 正面 -->\n                <div class=\"flex items-center justify-between bg-black/30 px-2.5 py-1.5 rounded border border-white/5\">\n                    <div class=\"flex flex-col\">\n                        <p class=\"text-xs font-medium text-gray-200\">正面 <span class=\"text-[9px] text-gray-500 ml-1\">FRONT</span></p>\n                        <p id=\"status-0\" class=\"text-[9px] text-gray-400 font-mono mt-0.5 uppercase\">UNSET</p>\n                    </div>\n                    <div class=\"flex gap-1.5\">\n                        <button class=\"btn-goto px-2.5 py-1 bg-[#1a1a1e] hover:bg-[#25252a] text-[10px] text-blue-300 rounded border border-gray-600/50 whitespace-nowrap transition-colors\" data-idx=\"0\" title=\"跳转至此方位\">前往/Go</button>\n                        <button class=\"btn-record px-2.5 py-1 bg-[#1a1a1e] hover:bg-[#2a2a2e] text-[10px] text-gray-300 rounded border border-gray-600/50 whitespace-nowrap transition-colors\" data-idx=\"0\" title=\"将当前视角记为该方位\">记录/Rec</button>\n                    </div>\n                </div>\n                <!-- 右面 -->\n                <div class=\"flex items-center justify-between bg-black/30 px-2.5 py-1.5 rounded border border-white/5\">\n                    <div class=\"flex flex-col\">\n                        <p class=\"text-xs font-medium text-gray-200\">右面 <span class=\"text-[9px] text-gray-500 ml-1\">RIGHT</span></p>\n                        <p id=\"status-1\" class=\"text-[9px] text-gray-400 font-mono mt-0.5 uppercase\">UNSET</p>\n                    </div>\n                    <div class=\"flex gap-1.5\">\n                        <button class=\"btn-goto px-2.5 py-1 bg-[#1a1a1e] hover:bg-[#25252a] text-[10px] text-blue-300 rounded border border-gray-600/50 whitespace-nowrap transition-colors\" data-idx=\"1\">前往/Go</button>\n                        <button class=\"btn-record px-2.5 py-1 bg-[#1a1a1e] hover:bg-[#2a2a2e] text-[10px] text-gray-300 rounded border border-gray-600/50 whitespace-nowrap transition-colors\" data-idx=\"1\">记录/Rec</button>\n                    </div>\n                </div>\n                <!-- 后面 -->\n                <div class=\"flex items-center justify-between bg-black/30 px-2.5 py-1.5 rounded border border-white/5\">\n                    <div class=\"flex flex-col\">\n                        <p class=\"text-xs font-medium text-gray-200\">后面 <span class=\"text-[9px] text-gray-500 ml-1\">BACK</span></p>\n                        <p id=\"status-2\" class=\"text-[9px] text-gray-400 font-mono mt-0.5 uppercase\">UNSET</p>\n                    </div>\n                    <div class=\"flex gap-1.5\">\n                        <button class=\"btn-goto px-2.5 py-1 bg-[#1a1a1e] hover:bg-[#25252a] text-[10px] text-blue-300 rounded border border-gray-600/50 whitespace-nowrap transition-colors\" data-idx=\"2\">前往/Go</button>\n                        <button class=\"btn-record px-2.5 py-1 bg-[#1a1a1e] hover:bg-[#2a2a2e] text-[10px] text-gray-300 rounded border border-gray-600/50 whitespace-nowrap transition-colors\" data-idx=\"2\">记录/Rec</button>\n                    </div>\n                </div>\n                <!-- 左面 -->\n                <div class=\"flex items-center justify-between bg-black/30 px-2.5 py-1.5 rounded border border-white/5\">\n                    <div class=\"flex flex-col\">\n                        <p class=\"text-xs font-medium text-gray-200\">左面 <span class=\"text-[9px] text-gray-500 ml-1\">LEFT</span></p>\n                        <p id=\"status-3\" class=\"text-[9px] text-gray-400 font-mono mt-0.5 uppercase\">UNSET</p>\n                    </div>\n                    <div class=\"flex gap-1.5\">\n                        <button class=\"btn-goto px-2.5 py-1 bg-[#1a1a1e] hover:bg-[#25252a] text-[10px] text-blue-300 rounded border border-gray-600/50 whitespace-nowrap transition-colors\" data-idx=\"3\">前往/Go</button>\n                        <button class=\"btn-record px-2.5 py-1 bg-[#1a1a1e] hover:bg-[#2a2a2e] text-[10px] text-gray-300 rounded border border-gray-600/50 whitespace-nowrap transition-colors\" data-idx=\"3\">记录/Rec</button>\n                    </div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"ui-layer top-8 right-8 flex gap-2\">\n            <!-- 隐藏UI按钮 -->\n            <button id=\"btn-toggle-ui\" class=\"btn-tech bg-[#1a1a1e] hover:bg-[#25252a] border border-gray-700/50 text-gray-300 text-[13px] font-medium py-2 px-4 rounded-xl flex items-center shadow-lg\">\n                <svg class=\"w-4 h-4 mr-1.5 text-gray-400\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858.908a3 3 0 114.243 4.243M9.878 9.878l4.242 4.242M9.88 9.88l-3.29-3.29m7.532 7.532l3.29 3.29M3 3l3.59 3.59m0 0A9.953 9.953 0 0112 5c4.478 0 8.268 2.943 9.543 7a10.025 10.025 0 01-4.132 5.411m0 0L21 21\"></path></svg>\n                隐藏面板 / Hide UI <span class=\"key-hint !ml-2\">H</span>\n            </button>\n            <button id=\"btn-reset-view\" class=\"btn-tech bg-[#1a1a1e] hover:bg-[#25252a] border border-gray-700/50 text-gray-300 text-[13px] font-medium py-2 px-4 rounded-xl flex items-center shadow-lg\">\n                <svg class=\"w-4 h-4 mr-1.5 text-blue-400\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M15 12a3 3 0 11-6 0 3 3 0 016 0z\"></path><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z\"></path></svg>\n                重置视角 / Reset View <span class=\"key-hint !ml-2\">R</span>\n            </button>\n            <button id=\"btn-change-image\" class=\"btn-tech bg-[#1a1a1e] hover:bg-[#25252a] border border-gray-700/50 text-gray-300 text-[13px] font-medium py-2 px-4 rounded-xl flex items-center shadow-lg\">\n                <svg class=\"w-4 h-4 mr-1.5 text-purple-400\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12\"></path></svg>\n                更换图片 / Open <span class=\"key-hint !ml-2\">O</span>\n            </button>\n        </div>\n\n        <div class=\"ui-layer bottom-8 left-1/2 -translate-x-1/2 panel-blur p-3 rounded-2xl flex items-center gap-4 border border-white/10 w-max\">\n            \n            <button id=\"btn-screenshot-single\" class=\"btn-tech flex flex-col justify-center items-center h-[52px] px-6 bg-blue-900/20 hover:bg-blue-800/40 border border-blue-800/30 rounded-xl transition-all\">\n                <span class=\"text-blue-100 text-[13px] font-medium mb-0.5\">单张提取 / Single</span>\n                <span class=\"text-[10px] text-gray-500 font-mono\">Shortcut: <kbd class=\"text-white font-bold ml-0.5\">1</kbd></span>\n            </button>\n\n            <div class=\"w-px h-12 bg-gray-700/60\"></div>\n\n            <div class=\"flex flex-col gap-1.5\">\n                <div class=\"text-[11px] text-gray-400 font-medium pl-1 flex items-center gap-1\">\n                    <svg class=\"w-3.5 h-3.5 text-emerald-500/70\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" d=\"M4 4h6v6H4zm10 0h6v6h-6zM4 14h6v6H4zm10 0h6v6h-6z\"></path></svg>\n                    四宫格输出模式 / 4-Grid Export\n                </div>\n                <div class=\"flex gap-1.5\">\n                    <button class=\"btn-grid btn-tech px-3 py-1.5 bg-emerald-900/20 hover:bg-emerald-800/40 border border-emerald-800/30 rounded-lg text-emerald-100 text-[11px] flex items-center gap-1.5\" data-type=\"4grid\" data-lang=\"cn\">\n                        中文标 <span class=\"key-hint !ml-0 !text-[9px]\">2</span>\n                    </button>\n                    <button class=\"btn-grid btn-tech px-3 py-1.5 bg-emerald-900/20 hover:bg-emerald-800/40 border border-emerald-800/30 rounded-lg text-emerald-100 text-[11px] flex items-center gap-1.5\" data-type=\"4grid\" data-lang=\"en\">\n                        EN标 <span class=\"key-hint !ml-0 !text-[9px]\">3</span>\n                    </button>\n                    <button class=\"btn-grid btn-tech px-3 py-1.5 bg-emerald-900/20 hover:bg-emerald-800/40 border border-emerald-800/30 rounded-lg text-emerald-100 text-[11px] flex items-center gap-1.5\" data-type=\"4grid\" data-lang=\"both\">\n                        中英双语 <span class=\"key-hint !ml-0 !text-[9px]\">4</span>\n                    </button>\n                    <button class=\"btn-grid btn-tech px-3 py-1.5 bg-gray-800/40 hover:bg-gray-700/60 border border-gray-600/50 rounded-lg text-gray-300 text-[11px] flex items-center gap-1.5\" data-type=\"4grid\" data-lang=\"none\">\n                        4宫格 (无标) / Clean <span class=\"key-hint !ml-0 !text-[9px]\">5</span>\n                    </button>\n                </div>\n            </div>\n\n            <div class=\"w-px h-12 bg-gray-700/60\"></div>\n\n            <div class=\"flex flex-col gap-1.5\">\n                <div class=\"text-[11px] text-gray-400 font-medium pl-1 flex items-center gap-1\">\n                    <svg class=\"w-3.5 h-3.5 text-amber-500/70\" fill=\"none\" stroke=\"currentColor\" viewBox=\"0 0 24 24\"><path stroke-linecap=\"square\" stroke-linejoin=\"miter\" stroke-width=\"2\" d=\"M3 3h4v4H3zm7 0h4v4h-4zm7 0h4v4h-4zM3 10h4v4H3zm7 0h4v4h-4zm7 0h4v4h-4zM3 17h4v4H3zm7 0h4v4h-4zm7 0h4v4h-4z\"></path></svg>\n                    十二宫格输出模式 / 12-Grid Export\n                </div>\n                <div class=\"flex gap-1.5\">\n                    <button class=\"btn-grid btn-tech px-3 py-1.5 bg-amber-900/20 hover:bg-amber-800/40 border border-amber-800/30 rounded-lg text-amber-100 text-[11px] flex items-center gap-1.5\" data-type=\"12grid\" data-lang=\"cn\">\n                        中文标 <span class=\"key-hint !ml-0 !text-[9px]\">6</span>\n                    </button>\n                    <button class=\"btn-grid btn-tech px-3 py-1.5 bg-amber-900/20 hover:bg-amber-800/40 border border-amber-800/30 rounded-lg text-amber-100 text-[11px] flex items-center gap-1.5\" data-type=\"12grid\" data-lang=\"en\">\n                        EN标 <span class=\"key-hint !ml-0 !text-[9px]\">7</span>\n                    </button>\n                    <button class=\"btn-grid btn-tech px-3 py-1.5 bg-amber-900/20 hover:bg-amber-800/40 border border-amber-800/30 rounded-lg text-amber-100 text-[11px] flex items-center gap-1.5\" data-type=\"12grid\" data-lang=\"both\">\n                        中英双语 <span class=\"key-hint !ml-0 !text-[9px]\">8</span>\n                    </button>\n                    <button class=\"btn-grid btn-tech px-3 py-1.5 bg-gray-800/40 hover:bg-gray-700/60 border border-gray-600/50 rounded-lg text-gray-300 text-[11px] flex items-center gap-1.5\" data-type=\"12grid\" data-lang=\"none\">\n                        12宫格 (无标) / Clean <span class=\"key-hint !ml-0 !text-[9px]\">9</span>\n                    </button>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"ui-layer bottom-8 right-8 text-[11px] text-gray-600 font-mono tracking-widest uppercase pointer-events-none\">\n            By nwalmolos\n        </div>\n    </div>\n\n    <input type=\"file\" id=\"file-input\" accept=\"image/jpeg, image/png, image/webp\" />\n\n    <script type=\"module\">\n        import * as THREE from 'three';\n        import { OrbitControls } from 'three/addons/controls/OrbitControls.js';\n\n        const fileInput = document.getElementById('file-input');\n        const dropZone = document.getElementById('drop-zone');\n        const uploadOverlay = document.getElementById('upload-overlay');\n        const workspaceUi = document.getElementById('workspace-ui');\n        const loadingOverlay = document.getElementById('loading-overlay');\n        const loadingText = document.getElementById('loading-text');\n\n        let scene, camera, renderer, controls, sphereMaterial;\n        let isUIHidden = false;\n\n        const userDefinedViews = [\n            { zh: '正面', en: 'FRONT', yaw: null, pitch: null },\n            { zh: '右面', en: 'RIGHT', yaw: null, pitch: null },\n            { zh: '后面', en: 'BACK',  yaw: null, pitch: null },\n            { zh: '左面', en: 'LEFT',  yaw: null, pitch: null }\n        ];\n\n        function initThreeJS() {\n            const container = document.getElementById('canvas-container');\n            scene = new THREE.Scene();\n            camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);\n            \n            renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true, preserveDrawingBuffer: true });\n            renderer.setPixelRatio(window.devicePixelRatio);\n            renderer.setSize(window.innerWidth, window.innerHeight);\n            renderer.outputEncoding = THREE.sRGBEncoding; \n            container.appendChild(renderer.domElement);\n\n            controls = new OrbitControls(camera, renderer.domElement);\n            controls.enableZoom = true;\n            controls.enablePan = false;    \n            controls.minDistance = 0.1;\n            controls.maxDistance = 100;    \n            controls.rotateSpeed = -0.5;   \n            controls.enableDamping = false;\n\n            const geometry = new THREE.SphereGeometry(500, 60, 40);\n            geometry.scale(-1, 1, 1);\n            sphereMaterial = new THREE.MeshBasicMaterial({ color: 0x000000 });\n            const sphere = new THREE.Mesh(geometry, sphereMaterial);\n            scene.add(sphere);\n\n            window.addEventListener('resize', onWindowResize, false);\n            setupKeyboardShortcuts();\n            animate();\n        }\n\n        // ====== UI 控制逻辑 ======\n        function toggleUI() {\n            isUIHidden = !isUIHidden;\n            if (isUIHidden) {\n                workspaceUi.classList.add('hidden-ui');\n            } else {\n                workspaceUi.classList.remove('hidden-ui');\n            }\n        }\n        document.getElementById('btn-toggle-ui').addEventListener('click', toggleUI);\n\n        // ====== 快捷键总调度 ======\n        function setupKeyboardShortcuts() {\n            window.addEventListener('keydown', (e) => {\n                const key = e.key.toLowerCase();\n                const tag = e.target.tagName.toLowerCase();\n                if (tag === 'input' || tag === 'textarea') return;\n\n                if (key === 'h') toggleUI();\n                if (key === 'r') navigateToIdx(0); // 重置视角等于跳回正面\n                if (key === 'o') fileInput.click();\n                if (key === '1') takeSingleScreenshot();\n                \n                // 四宫格快捷键\n                if (key === '2') takeScreenshotGrid('4grid', 'cn');\n                if (key === '3') takeScreenshotGrid('4grid', 'en');\n                if (key === '4') takeScreenshotGrid('4grid', 'both');\n                if (key === '5') takeScreenshotGrid('4grid', 'none');\n\n                // 十二宫格快捷键\n                if (key === '6') takeScreenshotGrid('12grid', 'cn');\n                if (key === '7') takeScreenshotGrid('12grid', 'en');\n                if (key === '8') takeScreenshotGrid('12grid', 'both');\n                if (key === '9') takeScreenshotGrid('12grid', 'none');\n            });\n        }\n\n        function animate() {\n            requestAnimationFrame(animate);\n            controls.update(); \n            renderer.render(scene, camera);\n        }\n\n        function onWindowResize() {\n            camera.aspect = window.innerWidth / window.innerHeight;\n            camera.updateProjectionMatrix();\n            renderer.setSize(window.innerWidth, window.innerHeight);\n        }\n\n        function getCurrentCameraRotation() {\n            const dir = new THREE.Vector3();\n            camera.getWorldDirection(dir);\n            return { yaw: Math.atan2(dir.x, dir.z), pitch: Math.asin(dir.y) };\n        }\n\n        // --- 记录坐标事件 ---\n        document.querySelectorAll('.btn-record').forEach(btn => {\n            btn.addEventListener('click', (e) => {\n                const idx = parseInt(e.target.getAttribute('data-idx'));\n                const rot = getCurrentCameraRotation();\n                userDefinedViews[idx].yaw = rot.yaw;\n                userDefinedViews[idx].pitch = rot.pitch;\n\n                const statusEl = document.getElementById(`status-${idx}`);\n                statusEl.innerText = `[Y:${(rot.yaw).toFixed(2)}, P:${(rot.pitch).toFixed(2)}]`;\n                statusEl.classList.remove('text-gray-400');\n                statusEl.classList.add('text-emerald-500', 'flash-text');\n                setTimeout(() => { statusEl.classList.remove('flash-text'); }, 1000);\n            });\n        });\n\n        // --- 跳转坐标逻辑与事件 ---\n        function getTargetRotationForIdx(idx) {\n            if (userDefinedViews[idx].yaw !== null) {\n                return { yaw: userDefinedViews[idx].yaw, pitch: userDefinedViews[idx].pitch };\n            }\n            \n            // 如果未记录，推算默认相对坐标\n            let baseIdx = userDefinedViews.findIndex(v => v.yaw !== null);\n            let baseYaw = 0, basePitch = 0;\n            \n            if (baseIdx !== -1) {\n                baseYaw = userDefinedViews[baseIdx].yaw;\n                basePitch = userDefinedViews[baseIdx].pitch;\n            } else {\n                baseIdx = 0; // 如果全都未记录，以当前的 0度 作为虚拟正面\n            }\n            \n            return {\n                yaw: baseYaw - (idx - baseIdx) * (Math.PI / 2),\n                pitch: basePitch\n            };\n        }\n\n        function navigateToIdx(idx) {\n            const rot = getTargetRotationForIdx(idx);\n            const targetDir = getTargetPosition(rot.yaw, rot.pitch).normalize();\n            \n            camera.position.copy(targetDir).multiplyScalar(-0.1);\n            controls.target.set(0, 0, 0);\n            camera.fov = 75;\n            camera.updateProjectionMatrix();\n            controls.update();\n        }\n\n        document.querySelectorAll('.btn-goto').forEach(btn => {\n            btn.addEventListener('click', (e) => {\n                const idx = parseInt(e.target.getAttribute('data-idx'));\n                navigateToIdx(idx);\n            });\n        });\n\n        function checkAllViewsDefined() {\n            for(let i=0; i<4; i++) {\n                if(userDefinedViews[i].yaw === null) return false;\n            }\n            return true;\n        }\n\n        function autoFillMissingViews() {\n            let baseIdx = userDefinedViews.findIndex(v => v.yaw !== null);\n            if (baseIdx === -1) {\n                const rot = getCurrentCameraRotation();\n                userDefinedViews[0].yaw = rot.yaw;\n                userDefinedViews[0].pitch = 0; \n                baseIdx = 0;\n                document.getElementById('status-0').innerText = 'AUTO-SET';\n            }\n            const baseYaw = userDefinedViews[baseIdx].yaw;\n            const basePitch = userDefinedViews[baseIdx].pitch;\n\n            for(let i=0; i<4; i++) {\n                if (userDefinedViews[i].yaw === null) {\n                    userDefinedViews[i].yaw = baseYaw - (i - baseIdx) * (Math.PI / 2);\n                    userDefinedViews[i].pitch = basePitch; \n                    const statusEl = document.getElementById(`status-${i}`);\n                    statusEl.innerText = 'AUTO-CALC';\n                    statusEl.classList.remove('text-gray-400');\n                    statusEl.classList.add('text-emerald-500');\n                }\n            }\n        }\n\n        function loadPanorama(imageDataUrl) {\n            loadingOverlay.classList.remove('hidden');\n\n            new THREE.TextureLoader().load(\n                imageDataUrl,\n                function (texture) {\n                    texture.encoding = THREE.sRGBEncoding;\n                    texture.minFilter = THREE.LinearFilter;\n                    texture.magFilter = THREE.LinearFilter;\n\n                    sphereMaterial.map = texture;\n                    sphereMaterial.color.setHex(0xffffff);\n                    sphereMaterial.needsUpdate = true;\n                    \n                    resetCalibrationState();\n                    navigateToIdx(0); // 加载后跳到正面\n\n                    loadingOverlay.classList.add('hidden');\n                    uploadOverlay.classList.add('hidden');\n                    workspaceUi.classList.remove('hidden');\n                },\n                undefined,\n                function () {\n                    loadingOverlay.classList.add('hidden');\n                    alert('文件损坏或格式不支持。');\n                }\n            );\n        }\n\n        function resetCalibrationState() {\n            for(let i=0; i<4; i++) {\n                userDefinedViews[i].yaw = null;\n                userDefinedViews[i].pitch = null;\n                const el = document.getElementById(`status-${i}`);\n                el.innerText = 'UNSET';\n                el.classList.remove('text-emerald-500');\n                el.classList.add('text-gray-400');\n            }\n        }\n\n        function getTargetPosition(yaw, pitch) {\n            return new THREE.Vector3(\n                Math.cos(pitch) * Math.sin(yaw),\n                Math.sin(pitch),\n                Math.cos(pitch) * Math.cos(yaw)\n            );\n        }\n\n        // ================= 截图导出逻辑 =================\n        async function takeScreenshotGrid(type, labelMode = 'cn') {\n            if (!checkAllViewsDefined()) autoFillMissingViews();\n\n            loadingText.innerText = 'RENDERING GRID...';\n            loadingOverlay.classList.remove('hidden');\n            await new Promise(resolve => setTimeout(resolve, 50));\n\n            const origWidth = window.innerWidth;\n            const origHeight = window.innerHeight;\n            const origAspect = camera.aspect;\n            const origPos = camera.position.clone();\n            const origQuat = camera.quaternion.clone();\n\n            const cellW = 960; \n            const cellH = 540; \n            const cols = (type === '4grid') ? 2 : 4;\n            const rows = (type === '12grid') ? 3 : 2; \n\n            const canvasObj = document.createElement('canvas');\n            canvasObj.width = cellW * cols;\n            canvasObj.height = cellH * rows;\n            const ctx = canvasObj.getContext('2d');\n\n            renderer.setSize(cellW, cellH);\n            camera.aspect = cellW / cellH;\n            camera.updateProjectionMatrix();\n            controls.enabled = false;\n\n            const imagesData = [];\n\n            if (type === '4grid') {\n                for (let i = 0; i < 4; i++) {\n                    const targetYaw = userDefinedViews[i].yaw;\n                    const targetPitch = userDefinedViews[i].pitch;\n\n                    camera.position.set(0, 0, 0);\n                    camera.lookAt(getTargetPosition(targetYaw, targetPitch));\n                    renderer.render(scene, camera);\n                    \n                    imagesData.push({ \n                        src: renderer.domElement.toDataURL('image/jpeg', 0.95), \n                        x: (i % 2) * cellW, \n                        y: Math.floor(i / 2) * cellH,\n                        zh: userDefinedViews[i].zh,\n                        en: userDefinedViews[i].en\n                    });\n                }\n            } else if (type === '12grid') {\n                const pitchOffset = Math.PI / 4; \n                const colMapping = [ userDefinedViews[3], userDefinedViews[0], userDefinedViews[1], userDefinedViews[2] ];\n\n                for (let col = 0; col < 4; col++) {\n                    const baseV = colMapping[col];\n                    const yaw = baseV.yaw;\n                    const pitch = baseV.pitch;\n                    \n                    // 第1排：上仰\n                    camera.position.set(0, 0, 0);\n                    camera.lookAt(getTargetPosition(yaw, pitch + pitchOffset));\n                    renderer.render(scene, camera);\n                    imagesData.push({ src: renderer.domElement.toDataURL('image/jpeg', 0.95), x: col * cellW, y: 0, zh: baseV.zh.replace('面', '上'), en: baseV.en + ' UP' });\n\n                    // 第2排：平视\n                    camera.position.set(0, 0, 0);\n                    camera.lookAt(getTargetPosition(yaw, pitch));\n                    renderer.render(scene, camera);\n                    imagesData.push({ src: renderer.domElement.toDataURL('image/jpeg', 0.95), x: col * cellW, y: cellH, zh: baseV.zh, en: baseV.en });\n\n                    // 第3排：俯视\n                    camera.position.set(0, 0, 0);\n                    camera.lookAt(getTargetPosition(yaw, pitch - pitchOffset));\n                    renderer.render(scene, camera);\n                    imagesData.push({ src: renderer.domElement.toDataURL('image/jpeg', 0.95), x: col * cellW, y: cellH * 2, zh: baseV.zh.replace('面', '下'), en: baseV.en + ' DOWN' });\n                }\n            }\n\n            renderer.setSize(origWidth, origHeight);\n            camera.aspect = origAspect;\n            camera.position.copy(origPos);\n            camera.quaternion.copy(origQuat);\n            camera.updateProjectionMatrix();\n            controls.enabled = true;\n            controls.update();\n\n            // Canvas 绘制与拼合\n            for (const item of imagesData) {\n                const img = new Image();\n                await new Promise(resolve => {\n                    img.onload = () => {\n                        ctx.drawImage(img, item.x, item.y, cellW, cellH);\n                        \n                        // 多语言文字渲染逻辑\n                        if (labelMode !== 'none') {\n                            const paddingLeft = 16;\n                            let paddingTop = 16;\n                            \n                            ctx.lineJoin = 'round';\n                            ctx.miterLimit = 2;\n                            ctx.textAlign = 'left';\n                            ctx.textBaseline = 'top';\n\n                            if (labelMode === 'cn' || labelMode === 'both') {\n                                ctx.font = '600 16px \"PingFang SC\", \"Microsoft YaHei\", sans-serif';\n                                ctx.strokeStyle = '#000000';\n                                ctx.lineWidth = 3;\n                                ctx.strokeText(item.zh, item.x + paddingLeft, item.y + paddingTop);\n                                ctx.fillStyle = '#ffffff';\n                                ctx.fillText(item.zh, item.x + paddingLeft, item.y + paddingTop);\n                                paddingTop += 22; // 双语下移\n                            }\n\n                            if (labelMode === 'en' || labelMode === 'both') {\n                                ctx.font = 'bold 12px Arial, sans-serif';\n                                ctx.strokeStyle = '#000000';\n                                ctx.lineWidth = 2.5;\n                                ctx.strokeText(item.en, item.x + paddingLeft, item.y + paddingTop);\n                                ctx.fillStyle = '#ffffff';\n                                ctx.fillText(item.en, item.x + paddingLeft, item.y + paddingTop);\n                            }\n                        }\n                        resolve();\n                    };\n                    img.src = item.src;\n                });\n            }\n\n            // 画纯黑色分割线\n            ctx.strokeStyle = '#000000';\n            ctx.lineWidth = 2;\n            ctx.beginPath();\n            for (let i = 1; i < cols; i++) { ctx.moveTo(i * cellW, 0); ctx.lineTo(i * cellW, canvasObj.height); }\n            for (let j = 1; j < rows; j++) { ctx.moveTo(0, j * cellH); ctx.lineTo(canvasObj.width, j * cellH); }\n            ctx.stroke();\n\n            // 文件名处理\n            const finalDataURL = canvasObj.toDataURL('image/jpeg', 0.95);\n            const link = document.createElement('a');\n            \n            let typeName = type === '4grid' ? '四宫格' : '十二宫格';\n            let labelSuffix = '';\n            if (labelMode === 'cn') labelSuffix = '-中文标';\n            else if (labelMode === 'en') labelSuffix = '-英文标';\n            else if (labelMode === 'both') labelSuffix = '-双语标';\n            else labelSuffix = '-无标';\n\n            link.download = `网页全景图查看器-${typeName}${labelSuffix}.jpg`;\n            link.href = finalDataURL;\n            link.click();\n\n            loadingOverlay.classList.add('hidden');\n        }\n\n        async function takeSingleScreenshot() {\n            loadingText.innerText = 'EXPORTING FRAME...';\n            loadingOverlay.classList.remove('hidden');\n            await new Promise(resolve => setTimeout(resolve, 50));\n\n            const origWidth = window.innerWidth;\n            const origHeight = window.innerHeight;\n            const origAspect = camera.aspect;\n\n            renderer.setSize(2560, 1440); \n            camera.aspect = 2560 / 1440;\n            camera.updateProjectionMatrix();\n\n            renderer.render(scene, camera);\n            const dataURL = renderer.domElement.toDataURL('image/jpeg', 1.0);\n\n            renderer.setSize(origWidth, origHeight);\n            camera.aspect = origAspect;\n            camera.updateProjectionMatrix();\n\n            const link = document.createElement('a');\n            link.download = `网页全景图查看器-单拍.jpg`;\n            link.href = dataURL;\n            link.click();\n            loadingOverlay.classList.add('hidden');\n        }\n\n        // ====== 按钮点击事件绑定 ======\n        document.getElementById('btn-reset-view').addEventListener('click', () => navigateToIdx(0));\n        document.getElementById('btn-change-image').addEventListener('click', () => fileInput.click());\n        dropZone.addEventListener('click', () => fileInput.click());\n        document.getElementById('btn-screenshot-single').addEventListener('click', takeSingleScreenshot);\n\n        document.querySelectorAll('.btn-grid').forEach(btn => {\n            btn.addEventListener('click', (e) => {\n                const target = e.currentTarget;\n                takeScreenshotGrid(target.getAttribute('data-type'), target.getAttribute('data-lang'));\n            });\n        });\n\n        // ====== 拖拽交互 ======\n        fileInput.addEventListener('change', (e) => {\n            if (e.target.files.length) loadPanorama(URL.createObjectURL(e.target.files[0]));\n            e.target.value = '';\n        });\n\n        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(ev => window.addEventListener(ev, e => {e.preventDefault(); e.stopPropagation();}, false));\n        ['dragenter', 'dragover'].forEach(ev => dropZone.addEventListener(ev, () => dropZone.classList.add('drag-active'), false));\n        ['dragleave', 'drop'].forEach(ev => dropZone.addEventListener(ev, () => dropZone.classList.remove('drag-active'), false));\n\n        window.addEventListener('drop', (e) => {\n            if (e.dataTransfer.files.length) loadPanorama(URL.createObjectURL(e.dataTransfer.files[0]));\n        }, false);\n\n        initThreeJS();\n    </script>\n</body>\n</html>"
+      ]
+    },
+    {
+      "bgcolor": "#535",
+      "color": "#323",
+      "flags": {},
+      "id": 55,
+      "inputs": [
+        {
+          "link": 38,
+          "localized_name": "source",
+          "name": "source",
+          "type": "*"
+        }
+      ],
+      "mode": 0,
+      "order": 20,
+      "outputs": [
+        {
+          "links": null,
+          "localized_name": "STRING",
+          "name": "STRING",
+          "type": "STRING"
+        }
+      ],
+      "pos": [
+        6620.791399380659,
+        -1641.2819931456816
+      ],
+      "properties": {
+        "Node name for S&R": "PreviewAny"
+      },
+      "size": [
+        346.09375,
+        569.84375
+      ],
+      "type": "PreviewAny",
+      "widgets_values": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "flags": {
+        "collapsed": false
+      },
+      "id": 75,
+      "inputs": [
+        {
+          "label": "image0",
+          "link": 60,
+          "localized_name": "images.image0",
+          "name": "images.image0",
+          "type": "IMAGE"
+        },
+        {
+          "label": "image1",
+          "link": 66,
+          "localized_name": "images.image1",
+          "name": "images.image1",
+          "type": "IMAGE"
+        },
+        {
+          "label": "image2",
+          "link": null,
+          "localized_name": "images.image2",
+          "name": "images.image2",
+          "shape": 7,
+          "type": "IMAGE"
+        }
+      ],
+      "mode": 0,
+      "order": 15,
+      "outputs": [
+        {
+          "links": [
+            62,
+            89
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        }
+      ],
+      "pos": [
+        6196.652171606874,
+        -624.0160107298104
+      ],
+      "properties": {
+        "Node name for S&R": "BatchImagesNode"
+      },
+      "size": [
+        330.859375,
+        96.40625
+      ],
+      "type": "BatchImagesNode",
+      "widgets_values": []
+    },
+    {
+      "flags": {},
+      "id": 76,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "image",
+          "name": "image",
+          "type": "COMBO",
+          "widget": {
+            "name": "image"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "choose file to upload",
+          "name": "upload",
+          "type": "IMAGEUPLOAD",
+          "widget": {
+            "name": "upload"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 4,
+      "outputs": [
+        {
+          "links": [
+            66
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        },
+        {
+          "links": null,
+          "localized_name": "MASK",
+          "name": "MASK",
+          "type": "MASK"
+        }
+      ],
+      "pos": [
+        5745.959379832033,
+        -71.91361490188149
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "size": [
+        375.46875,
+        574.21875
+      ],
+      "type": "LoadImage",
+      "widgets_values": [
+        "9b0cdf8fc91ab7d1e18919815c4d49d96fd7a50c44a87dbb115b996c5aa34be6.png",
+        "image"
+      ]
+    },
+    {
+      "flags": {},
+      "id": 77,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "image",
+          "name": "image",
+          "type": "COMBO",
+          "widget": {
+            "name": "image"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "choose file to upload",
+          "name": "upload",
+          "type": "IMAGEUPLOAD",
+          "widget": {
+            "name": "upload"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 5,
+      "outputs": [
+        {
+          "links": [
+            73
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        },
+        {
+          "links": null,
+          "localized_name": "MASK",
+          "name": "MASK",
+          "type": "MASK"
+        }
+      ],
+      "pos": [
+        5319.299727456626,
+        -77.73415521594688
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "size": [
+        375.46875,
+        574.21875
+      ],
+      "type": "LoadImage",
+      "widgets_values": [
+        "a3c227e806ee77e7ce08142112c1676fbeb7c161cabb9c73a142cb303540410b.png",
+        "image"
+      ]
+    },
+    {
+      "bgcolor": "#653",
+      "color": "#432",
+      "flags": {
+        "collapsed": false
+      },
+      "id": 80,
+      "inputs": [
+        {
+          "link": 93,
+          "localized_name": "images",
+          "name": "images",
+          "shape": 7,
+          "type": "IMAGE"
+        },
+        {
+          "link": null,
+          "localized_name": "files",
+          "name": "files",
+          "shape": 7,
+          "type": "GEMINI_INPUT_FILES"
+        },
+        {
+          "link": 96,
+          "localized_name": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "model",
+          "name": "model",
+          "type": "COMBO",
+          "widget": {
+            "name": "model"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "seed",
+          "name": "seed",
+          "type": "INT",
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "aspect_ratio",
+          "name": "aspect_ratio",
+          "type": "COMBO",
+          "widget": {
+            "name": "aspect_ratio"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "resolution",
+          "name": "resolution",
+          "type": "COMBO",
+          "widget": {
+            "name": "resolution"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "response_modalities",
+          "name": "response_modalities",
+          "type": "COMBO",
+          "widget": {
+            "name": "response_modalities"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "system_prompt",
+          "name": "system_prompt",
+          "shape": 7,
+          "type": "STRING",
+          "widget": {
+            "name": "system_prompt"
+          }
+        }
+      ],
+      "mode": 2,
+      "order": 19,
+      "outputs": [
+        {
+          "links": [
+            67
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        },
+        {
+          "links": null,
+          "localized_name": "STRING",
+          "name": "STRING",
+          "type": "STRING"
+        }
+      ],
+      "pos": [
+        6646.304223263334,
+        738.5532804693261
+      ],
+      "properties": {
+        "Node name for S&R": "GeminiImage2Node"
+      },
+      "showAdvanced": false,
+      "size": [
+        357.03125,
+        541.875
+      ],
+      "type": "GeminiImage2Node",
+      "widgets_values": [
+        "",
+        "gemini-3-pro-image-preview",
+        1056598106959054,
+        "randomize",
+        "1:1",
+        "4K",
+        "IMAGE+TEXT",
+        "You are an expert image-generation engine. You must ALWAYS produce an image.\nInterpret all user input—regardless of format, intent, or abstraction—as literal visual directives for image composition.\nIf a prompt is conversational or lacks specific visual details, you must creatively invent a concrete visual scenario that depicts the concept.\nPrioritize generating the visual representation above any text, formatting, or conversational requests."
+      ]
+    },
+    {
+      "bgcolor": "#3f5159",
+      "color": "#2a363b",
+      "flags": {},
+      "id": 81,
+      "inputs": [
+        {
+          "link": 67,
+          "localized_name": "images",
+          "name": "images",
+          "type": "IMAGE"
+        },
+        {
+          "link": null,
+          "localized_name": "filename_prefix",
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          }
+        }
+      ],
+      "mode": 2,
+      "order": 23,
+      "outputs": [],
+      "pos": [
+        7130.4741555127475,
+        742.0577241022182
+      ],
+      "properties": {},
+      "size": [
+        367.8125,
+        570.15625
+      ],
+      "type": "SaveImage",
+      "widgets_values": [
+        "ComfyUI_Panorama"
+      ]
+    },
+    {
+      "flags": {},
+      "id": 83,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "image",
+          "name": "image",
+          "type": "COMBO",
+          "widget": {
+            "name": "image"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "choose file to upload",
+          "name": "upload",
+          "type": "IMAGEUPLOAD",
+          "widget": {
+            "name": "upload"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 6,
+      "outputs": [
+        {
+          "links": [
+            69
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        },
+        {
+          "links": null,
+          "localized_name": "MASK",
+          "name": "MASK",
+          "type": "MASK"
+        }
+      ],
+      "pos": [
+        5319.088144813366,
+        773.0786354217213
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "size": [
+        377.03125,
+        555
+      ],
+      "type": "LoadImage",
+      "widgets_values": [
+        "f4d2f33c3aeab1ce1176ddb2f7372fd2b6d1f0c133bef60ab20d82374e161f13.jpeg",
+        "image"
+      ]
+    },
+    {
+      "flags": {
+        "collapsed": false
+      },
+      "id": 84,
+      "inputs": [
+        {
+          "label": "image0",
+          "link": 69,
+          "localized_name": "images.image0",
+          "name": "images.image0",
+          "type": "IMAGE"
+        },
+        {
+          "label": "image1",
+          "link": 73,
+          "localized_name": "images.image1",
+          "name": "images.image1",
+          "type": "IMAGE"
+        },
+        {
+          "label": "image2",
+          "link": null,
+          "localized_name": "images.image2",
+          "name": "images.image2",
+          "shape": 7,
+          "type": "IMAGE"
+        }
+      ],
+      "mode": 0,
+      "order": 16,
+      "outputs": [
+        {
+          "links": [
+            92,
+            93
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        }
+      ],
+      "pos": [
+        5767.820979126536,
+        755.516983567782
+      ],
+      "properties": {
+        "Node name for S&R": "BatchImagesNode"
+      },
+      "size": [
+        225,
+        96.40625
+      ],
+      "type": "BatchImagesNode",
+      "widgets_values": []
+    },
+    {
+      "bgcolor": "#533",
+      "color": "#322",
+      "flags": {},
+      "id": 86,
+      "inputs": [],
+      "mode": 0,
+      "order": 7,
+      "outputs": [],
+      "pos": [
+        5758.429446485723,
+        907.5471299369409
+      ],
+      "properties": {},
+      "size": [
+        347.34375,
+        423.46875
+      ],
+      "type": "Note",
+      "widgets_values": [
+        "Generating 1:1 panoramas directly  doesn't produce very good results, so I recommend first creating a rectangular panorama and then converting it to a square panorama."
+      ]
+    },
+    {
+      "bgcolor": "#533",
+      "color": "#322",
+      "flags": {},
+      "id": 87,
+      "inputs": [],
+      "mode": 0,
+      "order": 8,
+      "outputs": [],
+      "pos": [
+        6187.092208142048,
+        -69.55120184465636
+      ],
+      "properties": {},
+      "size": [
+        341.640625,
+        562.421875
+      ],
+      "type": "Note",
+      "widgets_values": [
+        "These perspective reference images are for reference only. If the results aren’t satisfactory, I recommend finding your own professional panoramic perspective reference images."
+      ]
+    },
+    {
+      "bgcolor": "#3f5159",
+      "color": "#2a363b",
+      "flags": {},
+      "id": 88,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "image",
+          "name": "image",
+          "type": "COMBO",
+          "widget": {
+            "name": "image"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "choose file to upload",
+          "name": "upload",
+          "type": "IMAGEUPLOAD",
+          "widget": {
+            "name": "upload"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 9,
+      "outputs": [
+        {
+          "links": [],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        },
+        {
+          "links": null,
+          "localized_name": "MASK",
+          "name": "MASK",
+          "type": "MASK"
+        }
+      ],
+      "pos": [
+        5326.276674442328,
+        1480.1904105782596
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "size": [
+        375.46875,
+        574.21875
+      ],
+      "type": "LoadImage",
+      "widgets_values": [
+        "f4d2f33c3aeab1ce1176ddb2f7372fd2b6d1f0c133bef60ab20d82374e161f13.jpeg",
+        "image"
+      ]
+    },
+    {
+      "bgcolor": "#3f5159",
+      "color": "#2a363b",
+      "flags": {},
+      "id": 90,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "image",
+          "name": "image",
+          "type": "COMBO",
+          "widget": {
+            "name": "image"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "choose file to upload",
+          "name": "upload",
+          "type": "IMAGEUPLOAD",
+          "widget": {
+            "name": "upload"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 10,
+      "outputs": [
+        {
+          "links": [],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        },
+        {
+          "links": null,
+          "localized_name": "MASK",
+          "name": "MASK",
+          "type": "MASK"
+        }
+      ],
+      "pos": [
+        5751.02235627717,
+        1483.3231981312347
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "size": [
+        368.671875,
+        569.21875
+      ],
+      "type": "LoadImage",
+      "widgets_values": [
+        "9b0e16920c5e4dbc4532f916955b3b73c176f015ff90d3c6da2d8a9e3ced124c.jpg",
+        "image"
+      ]
+    },
+    {
+      "bgcolor": "#653",
+      "color": "#432",
+      "flags": {},
+      "id": 93,
+      "inputs": [
+        {
+          "link": 92,
+          "localized_name": "image",
+          "name": "image",
+          "shape": 7,
+          "type": "IMAGE"
+        },
+        {
+          "link": null,
+          "localized_name": "mask",
+          "name": "mask",
+          "shape": 7,
+          "type": "MASK"
+        },
+        {
+          "link": 97,
+          "localized_name": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "seed",
+          "name": "seed",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "quality",
+          "name": "quality",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "quality"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "background",
+          "name": "background",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "background"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "size",
+          "name": "size",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "size"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "n",
+          "name": "n",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "n"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "model",
+          "name": "model",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "model"
+          }
+        }
+      ],
+      "mode": 2,
+      "order": 18,
+      "outputs": [
+        {
+          "links": [
+            76
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        }
+      ],
+      "pos": [
+        6639.631939909043,
+        1493.5772460781805
+      ],
+      "properties": {
+        "Node name for S&R": "OpenAIGPTImage1"
+      },
+      "size": [
+        362.65625,
+        547.34375
+      ],
+      "type": "OpenAIGPTImage1",
+      "widgets_values": [
+        "[Task] Generate a high-quality, professional HDRI 360-degree equirectangular panorama environment.\n[Reference Constraints] Content, art style, and lighting are strictly dictated by [Reference Image 1].[Reference Image 2 (Equirectangular Grid)] is for invisible geometric routing ONLY, absolutely do not reference its art style.\n[Scene & Atmosphere] Abstract surreal sci-fi space, highly reflective dark tiled floor at nadir, jagged porous asteroid rocks, glowing neon pink and cyan spheres, smooth metallic orbs, distant pitch-black starry void at zenith, cinematic lighting, vaporwave aesthetic, photorealistic. Ensure these elements map onto the spatial structure without breaking the underlying equirectangular geometry.\n[Projection Rules] True 360° x 180° spherical mapping. The top (zenith) and bottom (nadir) edges must display mathematically correct extreme visual stretching and distortion.[Panorama Stitching] The left and right edges must close perfectly and seamlessly, without any visual seams or breaks.[Mandatory Constraints & Negative Prompts] ABSOLUTELY NO GRID LINES. Do not render, trace, or retain any wireframes, reference lines, or the graphic flat style of [Reference Image 2]. The final output must not look like a blueprint, diagram, or mesh. It must be a fully rendered, clean, and immersive realistic environment.[Format Requirements] Strictly follow a 1:1 aspect ratio, 8k resolution.",
+        2085147128,
+        "randomize",
+        "low",
+        "opaque",
+        "1024x1024",
+        1,
+        "gpt-image-2"
+      ]
+    },
+    {
+      "bgcolor": "#355",
+      "color": "#233",
+      "flags": {},
+      "id": 95,
+      "inputs": [
+        {
+          "link": 76,
+          "localized_name": "images",
+          "name": "images",
+          "type": "IMAGE"
+        },
+        {
+          "link": null,
+          "localized_name": "filename_prefix",
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          }
+        }
+      ],
+      "mode": 2,
+      "order": 22,
+      "outputs": [],
+      "pos": [
+        7136.849268645025,
+        1495.543002611833
+      ],
+      "properties": {},
+      "size": [
+        359.765625,
+        542.515625
+      ],
+      "type": "SaveImage",
+      "widgets_values": [
+        "ComfyUI_Panorama"
+      ]
+    },
+    {
+      "bgcolor": "#355",
+      "color": "#233",
+      "flags": {},
+      "id": 105,
+      "inputs": [
+        {
+          "link": 87,
+          "localized_name": "images",
+          "name": "images",
+          "type": "IMAGE"
+        },
+        {
+          "link": null,
+          "localized_name": "filename_prefix",
+          "name": "filename_prefix",
+          "type": "STRING",
+          "widget": {
+            "name": "filename_prefix"
+          }
+        }
+      ],
+      "mode": 2,
+      "order": 27,
+      "outputs": [],
+      "pos": [
+        7133.290184867235,
+        -68.29087020055522
+      ],
+      "properties": {},
+      "size": [
+        370.078125,
+        558.4375
+      ],
+      "type": "SaveImage",
+      "widgets_values": [
+        "ComfyUI_Panorama"
+      ]
+    },
+    {
+      "bgcolor": "#653",
+      "color": "#432",
+      "flags": {},
+      "id": 106,
+      "inputs": [
+        {
+          "link": 89,
+          "localized_name": "image",
+          "name": "image",
+          "shape": 7,
+          "type": "IMAGE"
+        },
+        {
+          "link": null,
+          "localized_name": "mask",
+          "name": "mask",
+          "shape": 7,
+          "type": "MASK"
+        },
+        {
+          "link": 90,
+          "localized_name": "prompt",
+          "name": "prompt",
+          "type": "STRING",
+          "widget": {
+            "name": "prompt"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "seed",
+          "name": "seed",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "seed"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "quality",
+          "name": "quality",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "quality"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "background",
+          "name": "background",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "background"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "size",
+          "name": "size",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "size"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "n",
+          "name": "n",
+          "shape": 7,
+          "type": "INT",
+          "widget": {
+            "name": "n"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "model",
+          "name": "model",
+          "shape": 7,
+          "type": "COMBO",
+          "widget": {
+            "name": "model"
+          }
+        }
+      ],
+      "mode": 2,
+      "order": 25,
+      "outputs": [
+        {
+          "links": [
+            87
+          ],
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        }
+      ],
+      "pos": [
+        6642.131726538109,
+        -76.82607321201806
+      ],
+      "properties": {
+        "Node name for S&R": "OpenAIGPTImage1"
+      },
+      "size": [
+        347.96875,
+        562.8125
+      ],
+      "type": "OpenAIGPTImage1",
+      "widgets_values": [
+        "",
+        2085147128,
+        "randomize",
+        "low",
+        "opaque",
+        "1536x1024",
+        1,
+        "gpt-image-2"
+      ]
+    },
+    {
+      "bgcolor": "#355",
+      "color": "#233",
+      "flags": {},
+      "id": 107,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "image",
+          "name": "image",
+          "type": "COMBO",
+          "widget": {
+            "name": "image"
+          }
+        },
+        {
+          "link": null,
+          "localized_name": "choose file to upload",
+          "name": "upload",
+          "type": "IMAGEUPLOAD",
+          "widget": {
+            "name": "upload"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 11,
+      "outputs": [
+        {
+          "links": null,
+          "localized_name": "IMAGE",
+          "name": "IMAGE",
+          "type": "IMAGE"
+        },
+        {
+          "links": null,
+          "localized_name": "MASK",
+          "name": "MASK",
+          "type": "MASK"
+        }
+      ],
+      "pos": [
+        6175.2427710587035,
+        1481.4089889040897
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "size": [
+        364.703125,
+        565.3125
+      ],
+      "type": "LoadImage",
+      "widgets_values": [
+        "0ee357ae6373370d6f3a4cdcaba3fbd984ecb1ccc37fb4c13307f1ff19282290.png",
+        "image"
+      ]
+    },
+    {
+      "bgcolor": "#335",
+      "color": "#223",
+      "flags": {},
+      "id": 109,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "value",
+          "name": "value",
+          "type": "STRING",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 12,
+      "outputs": [
+        {
+          "links": [
+            96,
+            97
+          ],
+          "localized_name": "STRING",
+          "name": "STRING",
+          "type": "STRING"
+        }
+      ],
+      "pos": [
+        6158.806824928997,
+        775.26167624758
+      ],
+      "properties": {
+        "Node name for S&R": "PrimitiveStringMultiline"
+      },
+      "size": [
+        386.75,
+        552.046875
+      ],
+      "type": "PrimitiveStringMultiline",
+      "widgets_values": [
+        "[Task] Generate a high-quality, professional HDRI 360-degree equirectangular panorama environment.\n[Reference Constraints] Content, art style, and lighting are strictly dictated by [Reference Image 1].[Reference Image 2 (Equirectangular Grid)] is for invisible geometric routing ONLY, absolutely do not reference its art style.\n[Scene & Atmosphere] Abstract surreal sci-fi space, highly reflective dark tiled floor at nadir, jagged porous asteroid rocks, glowing neon pink and cyan spheres, smooth metallic orbs, distant pitch-black starry void at zenith, cinematic lighting, vaporwave aesthetic, photorealistic. Ensure these elements map onto the spatial structure without breaking the underlying equirectangular geometry.\n[Projection Rules] True 360° x 180° spherical mapping. The top (zenith) and bottom (nadir) edges must display mathematically correct extreme visual stretching and distortion.[Panorama Stitching] The left and right edges must close perfectly and seamlessly, without any visual seams or breaks.[Mandatory Constraints & Negative Prompts] ABSOLUTELY NO GRID LINES. Do not render, trace, or retain any wireframes, reference lines, or the graphic flat style of [Reference Image 2]. The final output must not look like a blueprint, diagram, or mesh. It must be a fully rendered, clean, and immersive realistic environment.[Format Requirements] Strictly follow a 1:1 aspect ratio, 8k resolution."
+      ]
+    },
+    {
+      "bgcolor": "#335",
+      "color": "#223",
+      "flags": {},
+      "id": 110,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "value",
+          "name": "value",
+          "type": "STRING",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 13,
+      "outputs": [
+        {
+          "links": [
+            98
+          ],
+          "localized_name": "STRING",
+          "name": "STRING",
+          "type": "STRING"
+        }
+      ],
+      "pos": [
+        5735.328304117677,
+        -816.0202518935178
+      ],
+      "properties": {
+        "Node name for S&R": "PrimitiveStringMultiline"
+      },
+      "size": [
+        365.796875,
+        563.09375
+      ],
+      "type": "PrimitiveStringMultiline",
+      "widgets_values": [
+        "[Task] Generate a high-quality, professional HDRI 360-degree equirectangular panorama environment.\n[Reference Constraints] Content, art style, and lighting are strictly dictated by [Reference Image 1].[Reference Image 2 (Equirectangular Grid)] is for invisible geometric routing ONLY, absolutely do not reference its art style.\n[Scene & Atmosphere] Abstract surreal sci-fi space, highly reflective dark tiled floor at nadir, jagged porous asteroid rocks, glowing neon pink and cyan spheres, smooth metallic orbs, distant pitch-black starry void at zenith, cinematic lighting, vaporwave aesthetic, photorealistic. Ensure these elements map onto the spatial structure without breaking the underlying equirectangular geometry.\n[Projection Rules] True 360° x 180° spherical mapping. The top (zenith) and bottom (nadir) edges must display mathematically correct extreme visual stretching and distortion.[Panorama Stitching] The left and right edges must close perfectly and seamlessly, without any visual seams or breaks.[Mandatory Constraints & Negative Prompts] ABSOLUTELY NO GRID LINES. Do not render, trace, or retain any wireframes, reference lines, or the graphic flat style of [Reference Image 2]. The final output must not look like a blueprint, diagram, or mesh. It must be a fully rendered, clean, and immersive realistic environment.[Format Requirements] Strictly follow a 2:1 aspect ratio, 8k resolution."
+      ]
+    },
+    {
+      "bgcolor": "#535",
+      "color": "#323",
+      "flags": {},
+      "id": 111,
+      "inputs": [
+        {
+          "link": null,
+          "localized_name": "value",
+          "name": "value",
+          "type": "STRING",
+          "widget": {
+            "name": "value"
+          }
+        }
+      ],
+      "mode": 0,
+      "order": 14,
+      "outputs": [
+        {
+          "links": [
+            99
+          ],
+          "localized_name": "STRING",
+          "name": "STRING",
+          "type": "STRING"
+        }
+      ],
+      "pos": [
+        5763.119731620262,
+        -1602.2233005709595
+      ],
+      "properties": {
+        "Node name for S&R": "PrimitiveStringMultiline"
+      },
+      "size": [
+        352.703125,
+        529.9375
+      ],
+      "type": "PrimitiveStringMultiline",
+      "widgets_values": [
+        "**[System Role]**\nYou are a professional VR Panorama Art Director and AI Prompt Expert. Your task is to analyze the provided image or description and directly output a complete, highly optimized English prompt ready for AI image generation.\n\n**[Workflow & Rules]**\nPlease immediately process the attached image by executing the following steps:\n1. **360° Spatial Expansion**: Analyze the image and extrapolate the 360-degree surroundings, zenith (top), and nadir (bottom).\n2. **Concise English Keywords**: Convert these details into **short, highly effective, comma-separated English keywords/phrases. Do NOT use long or bloated sentences. Keep it under 40 words.**\n3. **Template Output (CRITICAL)**: Replace `<REPLACE_THIS_WITH_GENERATED_ENGLISH_DESCRIPTION>` in the exact template below. **You MUST output the entire template exactly as written. Do NOT output any conversational filler or acknowledgment phrases!**\n\n**[Fixed Output Template] (Output this EXACTLY with the placeholder replaced):**\n[Task] Generate a high-quality, professional HDRI 360-degree equirectangular panorama environment.\n[Reference Constraints] Content, art style, and lighting are strictly dictated by [Reference Image 1]. [Reference Image 2 (Equirectangular Grid)] is for invisible geometric routing ONLY, absolutely do not reference its art style.\n[Scene & Atmosphere] <REPLACE_THIS_WITH_GENERATED_ENGLISH_DESCRIPTION>. Ensure these elements map onto the spatial structure without breaking the underlying equirectangular geometry.[Projection Rules] True 360° x 180° spherical mapping. The top (zenith) and bottom (nadir) edges must display mathematically correct extreme visual stretching and distortion.\n[Panorama Stitching] The left and right edges must close perfectly and seamlessly, without any visual seams or breaks.[Mandatory Constraints & Negative Prompts] ABSOLUTELY NO GRID LINES. Do not render, trace, or retain any wireframes, reference lines, or the graphic flat style of [Reference Image 2]. The final output must not look like a blueprint, diagram, or mesh. It must be a fully rendered, clean, and immersive realistic environment.\n[Format Requirements] Strictly follow a 2:1 aspect ratio, 8k resolution."
+      ]
+    }
+  ],
+  "revision": 0,
+  "version": 0.4
+}
